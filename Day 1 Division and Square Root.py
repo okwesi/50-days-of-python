@@ -10,6 +10,5 @@ def divide_or_square(number):
 def longest_value(dict): 
 	return max(dict.values(), key=len)
 
-# print(divide_or_square(11))
-
-print(longest_value({'fruit': 'apple', 'color': 'green'}))
+divide_or_square(11))
+longest_value({'fruit': 'apple', 'color': 'green'}))
